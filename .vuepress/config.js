@@ -1,4 +1,5 @@
 module.exports = {
+    dest: 'docs',
     base: '/',
     themeConfig: {
         sidebar: 'auto',
