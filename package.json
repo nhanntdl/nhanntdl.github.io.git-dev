@@ -1,0 +1,23 @@
+{
+  "name": "nhanntdl.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhanntdl/nhanntdl.github.io.git-dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhanntdl/nhanntdl.github.io.git-dev/issues"
+  },
+  "homepage": "https://github.com/nhanntdl/nhanntdl.github.io.git-dev#readme",
+  "dependencies": {
+    "vuepress": "^1.5.2"
+  }
+}
