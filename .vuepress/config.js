@@ -1,6 +1,6 @@
 module.exports = {
     dest: 'docs',
-    base: '/',
+    base: '/nhanntdl.github.io.git-dev/',
     themeConfig: {
         sidebar: 'auto',
         nav: [
