@@ -1,9 +1,8 @@
 ---
 home: true
+description: a front-end developer
 heroImage: '/images/logo.png'
 actionText: Get Started →
-actionLink: /
-footer: Nhan Nguyen Trung | Copyright - 2020-mizucretor
+actionLink: /blog/
+footer: Copyright © 2019-present Nhan Nguyen Trung
 ---
-
-# Home
